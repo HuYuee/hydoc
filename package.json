@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-      "ydoc": "bin/ydoc"
+      "hydoc": "bin/ydoc"
   },
   "repository": {
     "type": "git",
