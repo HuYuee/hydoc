@@ -1,0 +1,19 @@
+{
+  "name": "hydoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+      "ydoc": "bin/ydoc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuYuee/hydoc.git"
+  },
+  "author": "huyue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuYuee/hydoc/issues"
+  },
+  "homepage": "https://github.com/HuYuee/hydoc#readme"
+}
